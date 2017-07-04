@@ -12,6 +12,7 @@
 		296ECAA91F0B64F8005F4EE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 296ECAA71F0B64F8005F4EE5 /* Main.storyboard */; };
 		296ECAAB1F0B64F8005F4EE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 296ECAAA1F0B64F8005F4EE5 /* Assets.xcassets */; };
 		296ECAAE1F0B64F8005F4EE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 296ECAAC1F0B64F8005F4EE5 /* LaunchScreen.storyboard */; };
+		296ECAB61F0B6595005F4EE5 /* try_everything.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 296ECAB51F0B6595005F4EE5 /* try_everything.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		296ECAAA1F0B64F8005F4EE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		296ECAAD1F0B64F8005F4EE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		296ECAAF1F0B64F8005F4EE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		296ECAB51F0B6595005F4EE5 /* try_everything.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = try_everything.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		296ECAA21F0B64F8005F4EE5 /* MyApp22 */ = {
 			isa = PBXGroup;
 			children = (
+				296ECAB51F0B6595005F4EE5 /* try_everything.mp3 */,
 				296ECAA31F0B64F8005F4EE5 /* AppDelegate.swift */,
 				296ECAA51F0B64F8005F4EE5 /* ViewController.swift */,
 				296ECAA71F0B64F8005F4EE5 /* Main.storyboard */,
@@ -127,6 +130,7 @@
 				296ECAAE1F0B64F8005F4EE5 /* LaunchScreen.storyboard in Resources */,
 				296ECAAB1F0B64F8005F4EE5 /* Assets.xcassets in Resources */,
 				296ECAA91F0B64F8005F4EE5 /* Main.storyboard in Resources */,
+				296ECAB61F0B6595005F4EE5 /* try_everything.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
